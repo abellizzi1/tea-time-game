@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PickUp
+  - Enemy
+  - Ground
+  - Teleporter
+  - Item_WingsOfVoice
+  - Item
+  - Item_CoeurDeVie
+  - ShopRoom
+  - ShopCamera
+  - Room
+  - ActivePlayerWeapon
+  - ActivePlayerWepon
+  - Item_DeepPockets
+  - Item_Spotlight
+  - Shop_CoeurDeVie
+  - Shop_DeepPockets
+  - ExitDoor
+  - Lava
+  - LavaDoor
+  - BossColumns
+  - FireColumnButton
+  - FirePillar
+  - FallingCatwalk
+  - FallingStairs
+  - DrainLavaButton
+  - Item_AdrenalineShot
+  - Shop_HealthRefill
+  - Shop_Freeze
+  - Item_ProteinPowder
+  - Item_FinalDestination
+  - Item_SwiftExecution
+  - Item_ApollyonsPit
+  - LavaWarning
+  - Item_GungHoGloving
+  - Item_PumpedUpKicks
+  - Item_DoubleTap
+  - Item_CannonballSplash
+  - FireBarrel
+  - Shop_WingsOfVoice
+  - Shop_AdrenalineShot
+  - Shop_ProteinPowder
+  - Shop_FinalDestination
+  - Shop_SwiftExecution
+  - Shop_ApollyonsPit
+  - Shop_PumpedUpKicks
+  - Shop_DoubleTap
+  - Shop_CannonballSplash
+  - Shop_GungHoGloves
+  - Shop_AK-47
+  - Shop_Bennelli M4
+  - Shop_M249
+  - Shop_Uzi
+  - Shop_M48
+  - Shop_M107
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - Enemy
+  - Bullets
+  - Barrel
+  - IgnoreNavMesh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1 - Light Layer 1
+  - Light Layer 2 - Light Layer 2
+  - Light Layer 3 - Light Layer 3
+  - Light Layer 4 - Light Layer 4
+  - Light Layer 5 - Light Layer 5
+  - Light Layer 6 - Light Layer 6
+  - Light Layer 7 - Light Layer 7
