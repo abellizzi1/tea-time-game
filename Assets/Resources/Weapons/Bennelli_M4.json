@@ -1,0 +1,13 @@
+{
+  "weaponName": "Bennelli M4",
+  "damage": 20,
+  "fireRate": 60,
+  "reloadTime": 3.0,
+  "magazineSize": 10,
+  "bulletSpeed": 4000,
+  "range": 50,
+  "spread": 20.0,
+  "pelletsPerShot": 15,
+  "recoil": 3.0,
+  "iconPath": "WeaponIcons/Shotgun"
+}

@@ -1,0 +1,13 @@
+{
+  "weaponName": "M107",
+  "damage": 225,
+  "fireRate": 75,
+  "reloadTime": 4,
+  "magazineSize": 5,
+  "bulletSpeed": 15000,
+  "range": 800,
+  "spread": 0.2,
+  "pelletsPerShot": 0,
+  "recoil": 4.5,
+  "iconPath": "WeaponIcons/Sniper"
+}

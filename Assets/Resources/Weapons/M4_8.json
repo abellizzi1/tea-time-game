@@ -1,0 +1,13 @@
+{
+  "weaponName": "M48",
+  "damage": 26,
+  "fireRate": 750,
+  "reloadTime": 2.8,
+  "magazineSize": 35,
+  "bulletSpeed": 10500,
+  "range": 400,
+  "spread": 1.8,
+  "pelletsPerShot": 0,
+  "recoil": 1.2,
+  "iconPath": "WeaponIcons/M4_8"
+}

@@ -1,0 +1,13 @@
+{
+  "weaponName": "M249",
+  "damage": 29,
+  "fireRate": 700,
+  "reloadTime": 4.5,
+  "magazineSize": 60,
+  "bulletSpeed": 9500,
+  "range": 300,
+  "spread": 12,
+  "pelletsPerShot": 0,
+  "recoil": 2.0,
+  "iconPath": "WeaponIcons/M249"
+}

@@ -1,0 +1,13 @@
+{
+  "weaponName": "M1911",
+  "damage": 35,
+  "fireRate": 200,
+  "reloadTime": 1,
+  "magazineSize": 12,
+  "bulletSpeed": 8500,
+  "range": 150,
+  "spread": 1.0,
+  "pelletsPerShot": 0,
+  "recoil": 0.5,
+  "iconPath": "WeaponIcons/Pistol"
+}

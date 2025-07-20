@@ -1,0 +1,13 @@
+{
+  "weaponName": "Uzi",
+  "damage": 20,
+  "fireRate": 1250,
+  "reloadTime": 2,
+  "magazineSize": 25,
+  "bulletSpeed": 8000,
+  "range": 120,
+  "spread": 12,
+  "pelletsPerShot": 0,
+  "recoil": 1.2,
+  "iconPath": "WeaponIcons/Uzi"
+}

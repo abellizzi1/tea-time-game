@@ -1,0 +1,13 @@
+{
+  "weaponName": "AK-47",
+  "damage": 45,
+  "fireRate": 500,
+  "reloadTime": 3.3,
+  "magazineSize": 20,
+  "bulletSpeed": 9999,
+  "range": 350,
+  "spread": 5,
+  "pelletsPerShot": 0,
+  "recoil": 1.5,
+  "iconPath": "WeaponIcons/AK-47"
+}
