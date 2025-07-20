@@ -1,6 +1,11 @@
 # Tea Time
 Video game made for Georgia Tech CS6457. Inspired by Dead Ops Arcade from Call of Duty Black Ops 1.
 
+## Links
+* [Executable (Windows or OSX)](https://drive.google.com/file/d/1BdqEgZhwzvC5yg-IcoHrg5pePx1cM1P0/view?usp=sharing)
+* [Trailer Video](https://youtu.be/iHFzT92-ze0)
+* [Gameplay Video](https://youtu.be/v743QQ7I5P8)
+
 ## Members
 * Angelo Bellizzi
 * Carter Disque
@@ -20,8 +25,3 @@ Video game made for Georgia Tech CS6457. Inspired by Dead Ops Arcade from Call o
 - After scenes 2 and 4, you will be loaded into the shop. You can purchase from 4 static upgrades and/or 2 randomly selected power-ups. There is a weapon rack with 3 randomly selected weapons that you can use to swap out your current weapon. The 3 randomly selected weapons will never include your currently equipped weapon. The door to exit is on the right - a prompt to exit will appear when you go to it.
 - After killing the required amount of enemies in scenes 1, 3, 5, and the boss fight, an item will float down in the middle of the scene. After completing scene 5 the you will be teleported to the boss room, which includes a multi-stage boss fight. After defeating the boss you can choose to continue and restart at scene 1. All power-ups/money obtained will remain persistent.
 - ESC for pause menu
-
-## Links
-* [Executable (Windows or OSX)](https://drive.google.com/file/d/1BdqEgZhwzvC5yg-IcoHrg5pePx1cM1P0/view?usp=sharing)
-* [Trailer Video](https://youtu.be/iHFzT92-ze0)
-* [Gameplay Video](https://youtu.be/v743QQ7I5P8)
