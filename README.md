@@ -1,5 +1,5 @@
 # Tea Time
-Video game made for Georgia Tech CS6457.
+Video game made for Georgia Tech CS6457. Inspired by Dead Ops Arcade from Call of Duty Black Ops 1.
 
 ## Members
 * Angelo Bellizzi
