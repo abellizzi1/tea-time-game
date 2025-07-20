@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb6b24061a16c707aac9fcd33d32a95, type: 3}
+  m_Name: MainWeaponDatabase
+  m_EditorClassIdentifier: 
+  weapons:
+  - weaponName: AK-47
+    damage: 35
+    fireRate: 600
+    reloadTime: 3.3
+    magazineSize: 30
+    bulletSpeed: 9999
+    range: 350
+    spread: 2.5
+    pelletsPerShot: 0
+    recoil: 1.5
+    iconPath: WeaponIcons/AK-47
+  - weaponName: Bennelli M4
+    damage: 12
+    fireRate: 100
+    reloadTime: 3
+    magazineSize: 10
+    bulletSpeed: 9999
+    range: 175
+    spread: 16
+    pelletsPerShot: 10
+    recoil: 1.5
+    iconPath: 
+  - weaponName: Barrett M107
+    damage: 120
+    fireRate: 60
+    reloadTime: 3.2
+    magazineSize: 5
+    bulletSpeed: 9999
+    range: 200
+    spread: 1.5
+    pelletsPerShot: 0
+    recoil: 1.5
+    iconPath: 
+  - weaponName: M1911
+    damage: 13
+    fireRate: 120
+    reloadTime: 1.5
+    magazineSize: 8
+    bulletSpeed: 9999
+    range: 75
+    spread: 1.2
+    pelletsPerShot: 0
+    recoil: 1
+    iconPath: 
+  - weaponName: M249
+    damage: 25
+    fireRate: 800
+    reloadTime: 4.5
+    magazineSize: 100
+    bulletSpeed: 9999
+    range: 200
+    spread: 3.5
+    pelletsPerShot: 0
+    recoil: 2.5
+    iconPath: 
+  - weaponName: M4
+    damage: 28
+    fireRate: 750
+    reloadTime: 2.1
+    magazineSize: 30
+    bulletSpeed: 9999
+    range: 150
+    spread: 2.5
+    pelletsPerShot: 0
+    recoil: 1.5
+    iconPath: 
+  - weaponName: Uzi
+    damage: 17
+    fireRate: 1200
+    reloadTime: 2
+    magazineSize: 32
+    bulletSpeed: 9999
+    range: 100
+    spread: 1.5
+    pelletsPerShot: 0
+    recoil: 1.5
+    iconPath: 
